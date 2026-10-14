@@ -1,0 +1,18 @@
+{
+  "handle": "@YOUR_HANDLE",
+  "niche": "Replace with your topic",
+  "audience": "Describe one specific audience",
+  "language": "English",
+  "tone": "Warm, concrete and concise",
+  "pillars": ["Practical tips", "Relatable moments", "Common questions"],
+  "face_allowed": false,
+  "voice_allowed": false,
+  "background": "#F7EFE5",
+  "foreground": "#642E3A",
+  "timezone": "Asia/Kolkata",
+  "posting_time": "20:00",
+  "posts_per_week": 3,
+  "publishing_mode": "draft_first",
+  "avoid": ["Invented testimonials", "Copied artwork", "Unsupported factual claims"],
+  "reference_urls": []
+}
